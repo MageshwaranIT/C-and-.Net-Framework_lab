@@ -3,32 +3,25 @@ using System;
 class Number
 {
     public int Value;
-
-    // Constructor
     public Number(int value)
     {
         Value = value;
     }
-
-    // Overload + operator
     public static Number operator +(Number n1, Number n2)
     {
         return new Number(n1.Value + n2.Value);
     }
 
-    // Overload - operator
     public static Number operator -(Number n1, Number n2)
     {
         return new Number(n1.Value - n2.Value);
     }
 
-    // Overload * operator
     public static Number operator *(Number n1, Number n2)
     {
         return new Number(n1.Value * n2.Value);
     }
 
-    // Display method
     public void Display(string operation)
     {
         Console.WriteLine(operation + " Result = " + Value);
