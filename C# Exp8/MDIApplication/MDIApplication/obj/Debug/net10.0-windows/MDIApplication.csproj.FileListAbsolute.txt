@@ -1,0 +1,14 @@
+D:\c # program\c#8th\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.exe
+D:\c # program\c#8th\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.deps.json
+D:\c # program\c#8th\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.runtimeconfig.json
+D:\c # program\c#8th\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.dll
+D:\c # program\c#8th\MDIApplication\MDIApplication\bin\Debug\net10.0-windows\MDIApplication.pdb
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.AssemblyInfoInputs.cache
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.AssemblyInfo.cs
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.csproj.CoreCompileInputs.cache
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.dll
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\refint\MDIApplication.dll
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.pdb
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\MDIApplication.genruntimeconfig.cache
+D:\c # program\c#8th\MDIApplication\MDIApplication\obj\Debug\net10.0-windows\ref\MDIApplication.dll

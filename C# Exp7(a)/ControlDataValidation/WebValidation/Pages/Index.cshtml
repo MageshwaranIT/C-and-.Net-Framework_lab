@@ -1,0 +1,19 @@
+﻿@page
+
+<h2>Data Validation</h2>
+
+<form method="post">
+    <input name="Name" placeholder="Enter Name" required />
+    <br><br>
+
+    <input name="Age" type="number"
+           placeholder="Enter Age" min="1" max="100" required />
+    <br><br>
+
+    <button type="submit">Validate</button>
+</form>
+
+@if (Request.Method == "POST")
+{
+    <p>Data is Valid!</p>
+}

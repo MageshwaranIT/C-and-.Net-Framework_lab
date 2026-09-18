@@ -1,0 +1,14 @@
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\bin\Debug\net10.0-windows\WindowsValidation.exe
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\bin\Debug\net10.0-windows\WindowsValidation.deps.json
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\bin\Debug\net10.0-windows\WindowsValidation.runtimeconfig.json
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\bin\Debug\net10.0-windows\WindowsValidation.dll
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\bin\Debug\net10.0-windows\WindowsValidation.pdb
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.AssemblyInfoInputs.cache
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.AssemblyInfo.cs
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.csproj.CoreCompileInputs.cache
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.dll
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\refint\WindowsValidation.dll
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.pdb
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\WindowsValidation.genruntimeconfig.cache
+D:\c # program\c#7aa\ControlDataValidation\WindowsValidation\obj\Debug\net10.0-windows\ref\WindowsValidation.dll
